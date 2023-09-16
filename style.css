@@ -1,0 +1,55 @@
+html, body {
+    
+
+}
+
+
+.princ{
+    background-color: rgb(55, 50, 50);
+    width: 100%;
+    height: 900px;
+    display: block;
+}
+
+.esq{
+    float: left;
+    background-color: green;
+    width:20%;
+    height:600px ;
+}
+
+.imagem{
+    background-color: blue;
+    width:100%;
+    height: 200px;
+}
+.link{
+    background-color: pink;
+    width: 100%;
+    height: 100px;
+}
+
+.dir{
+  padding-top: 200px;  
+  float:left;
+  height: 600px;
+  width:80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 768px) { 
+    .topo {
+            }
+    .conteudo {
+    }
+  } 
+  
