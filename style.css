@@ -178,7 +178,7 @@ textarea {
 
     .esq{
         width:600px;
-        height:700px;
+        height:800px;
         
          }
       
@@ -186,6 +186,10 @@ textarea {
             width: 20%;
          
         
+        }
+
+        .sobre{
+            width: 60%;
         }
   } 
   
