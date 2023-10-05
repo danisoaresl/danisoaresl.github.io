@@ -163,14 +163,17 @@ textarea {
 
 @media screen and (max-width: 768px) { 
     .topo {
-            }
-    .conteudo {
+            
     }
 
-    .img_projeto
-    {
+    .conteudo {
+
+    }
+
+    .img_projeto{
         
     }
+
     .dir{
         padding-top: 0px;  
         height: 500px;
@@ -178,14 +181,17 @@ textarea {
 
     .esq{
         width:600px;
-        height:700px;
+        height:800px;
         
          }
       
          .link2{
             width: 20%;
-         
         
+        }
+
+        .sobre{
+            width: 60%;
         }
   } 
   
